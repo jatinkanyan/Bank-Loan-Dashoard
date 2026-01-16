@@ -38,4 +38,18 @@ The dashboard is divided into three main areas of analysis:
 ## 📂 Installation & Usage
 1. **Clone the repository:**
    ```bash
-   git clone 
+   git clone https://github.com/jatinkanyan/Bank-Loan-Dashoard/tree/main
+
+
+Database Setup: Run the provided SQL scripts in the /sql folder to generate the necessary tables.
+
+Open the Dashboard: Open the .pbix or .twb file using the respective visualization software.
+
+📝 Business Impact
+This tool allows financial institutions to:
+
+Identify high-risk segments before they impact the bottom line.
+
+Optimize interest rate strategies based on borrower profiles.
+
+Streamline the loan approval process by monitoring MTD application trends.
