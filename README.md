@@ -1,5 +1,3 @@
-<img width="3199" height="81" alt="image" src="https://github.com/user-attachments/assets/ee2ee936-8108-491e-a8f3-50e2d042deeb" /># Bank Loan Analysis Dashboard
-
 ## 📌 Project Overview
 This dashboard provides a comprehensive 360-degree view of the bank’s loan portfolio, enabling stakeholders to monitor lending performance and financial stability in real-time. By aggregating key metrics like **Total Funded Amount**, **MTD (Month-to-Date) Applications**, and **Average Interest Rates**, it offers a strategic snapshot of capital deployment.
 
